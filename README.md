@@ -21,7 +21,7 @@ Welcome to the **Tic Tac Toe Game**! This is a classic two-player game built wit
 - **Responsive Design**: The game adapts to different screen sizes, making it accessible on both desktop and mobile devices.
 
 ## 🖼️ **Preview**
-![Tic Tac Toe Screenshot](./path-to-your-screenshot.png)
+![Tic Tac Toe Screenshot](./images/Screenshot.png)
 
 ## 🚀 **Getting Started**
 To run this project locally, follow these steps:

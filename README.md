@@ -1,6 +1,3 @@
-Here's a sample README file for your Tic Tac Toe project, formatted for GitHub:
-
----
 
 # Tic Tac Toe Game
 
@@ -21,7 +18,7 @@ Welcome to the **Tic Tac Toe Game**! This is a classic two-player game built wit
 - **Responsive Design**: The game adapts to different screen sizes, making it accessible on both desktop and mobile devices.
 
 ## 🖼️ **Preview**
-![Tic Tac Toe Screenshot](./images/Screenshot.png)
+![Tic Tac Toe Screenshot](./images/)
 
 ## 🚀 **Getting Started**
 To run this project locally, follow these steps:

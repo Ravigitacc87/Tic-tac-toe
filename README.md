@@ -1,3 +1,6 @@
+Here's a sample README file for your Tic Tac Toe project, formatted for GitHub:
+
+---
 
 # Tic Tac Toe Game
 
@@ -18,7 +21,7 @@ Welcome to the **Tic Tac Toe Game**! This is a classic two-player game built wit
 - **Responsive Design**: The game adapts to different screen sizes, making it accessible on both desktop and mobile devices.
 
 ## 🖼️ **Preview**
-![Tic Tac Toe Screenshot]()
+![Tic Tac Toe Screenshot](./path-to-your-screenshot.png)
 
 ## 🚀 **Getting Started**
 To run this project locally, follow these steps:
@@ -46,8 +49,8 @@ To run this project locally, follow these steps:
 tic-tac-toe/
 │
 ├── images/              # Folder for game images (X, O, square)
-│   ├── O.png
 │   ├── X.png
+│   ├── O.png
 │   └── square.png
 ├── styles/              # CSS styles for the game
 │   └── styles.css
@@ -59,7 +62,6 @@ tic-tac-toe/
 
 ## 🤝 **Contributing**
 Feel free to contribute to this project! Fork the repository, make your changes, and submit a pull request.
-
 
 ---
 

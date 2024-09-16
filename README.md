@@ -17,6 +17,12 @@ Welcome to the **Tic Tac Toe Game**! This is a classic two-player game built wit
 - **Reset & New Game Options**: Easily reset the board or start a new game using the buttons provided.
 - **Responsive Design**: The game adapts to different screen sizes, making it accessible on both desktop and mobile devices.
 
+
+## 🔗 **Live Demo**
+
+Check out the live demo of the Movie Management Application [here](https://ravigitacc87.github.io/Tic-tac-toe/).
+
+
 ## 🖼️ **Preview**
 ![Tic Tac Toe Screenshot](./images/Ss.png)
 
